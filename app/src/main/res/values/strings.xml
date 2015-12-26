@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MiWorkspace Inventory</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="do_task">Test</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="serialNumberLabel">Serial Number</string>
+    <string name="serialNumberDefaultText">No Serial Number Available</string>
+    <string name="assetLabel">Asset Tag</string>
+    <string name="assetTagDefaultText">No Asset Tag Available</string>
+    <string name="assignedToLabel">Assigned To</string>
+    <string name="assignedToDefaultText">No User Assigned</string>
+    <string name="locationLabel">Location</string>
+    <string name="macAddressLabel">MAC Address</string>
+    <string name="macAddressDefaultText">No MAC Address Found</string>
+    <string name="locationDefaultText">No Location Available</string>
+    <string name="commentsLabel">Comments</string>
+    <string name="title_activity_computer_detail">Detail View</string>
+</resources>
